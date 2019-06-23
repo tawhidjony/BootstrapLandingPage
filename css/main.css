@@ -288,6 +288,11 @@ font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     font-size: 16px;
     margin-top: 20px;
+
+}
+.button-download{
+    margin-left: 40%;
+    margin-top: 20px;
 }
 
 .contactPage{
